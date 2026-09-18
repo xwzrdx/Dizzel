@@ -9,3 +9,7 @@ Server Emulator for Dizzel ``Steam Ver. 2015.1.8.1``
 <img width="1273" height="982" alt="image" src="https://github.com/user-attachments/assets/32d94d32-4f93-4ad2-96a5-989a64b985ce" />
 
 
+
+
+
+Discord: ``wzrd0001``
