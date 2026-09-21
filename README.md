@@ -6,9 +6,10 @@ Server Emulator for Dizzel ``Steam Ver. 2015.1.8.1``
 # Done
 * Create Character
 * Nickname already exists
+* Tutorial + First time reward
 
 # To Do
-* Tutorial + First time Tutorial reward (5.000 DP)
+
 
 
 
